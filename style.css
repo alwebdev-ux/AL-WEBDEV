@@ -365,8 +365,8 @@ a {
 
     .but {
 
-        background-color: rgba(255, 255, 255, 0.107);
-        backdrop-filter: blur(7px);
+        background-color: rgba(255, 255, 255, 0.26);
+        backdrop-filter: blur(10px);
         position: absolute;
         width: 100%;
         height: 100%;
